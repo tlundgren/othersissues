@@ -1,5 +1,5 @@
 # othersissues
-Work on issues for external projects.
+Contributions to issues of external projects.
 
 ProtonVPN Android-App
 
